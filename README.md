@@ -8,7 +8,18 @@
 
 Изучаю C++, Java, алгоритмы, and computer science
 
-Мой стек технологий: C++ ООП Git GitHub CMake 
+Мой стек технологий: 
+* C++ Java SQL Html Javascript CMake 
+* MS Visual Studio Qt Arduino IDE IntelliJ Idea PostgreSQl Hibernate Spring Docker Apache Kafka Kubernetes Postman  
+* Алгоритмы Паттерны Многопоточность Архитектура программного обеспечения Тестирование
+
+Готов к сотрудничеству и новым проектам.
+
+Контакты: 
+* Email: maxim.sa.ru@gmail.com
+* Telegram: https://t.me/maximsa185
+
+
 
 <!--
 **kiselevm2023/kiselevm2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
