@@ -5,7 +5,7 @@
 * Уметь анализировать программу и улучшать ее.
 * Хочу стать частью крутой команды и внести свой вклад в общее дело.
 * Стремлюсь совершенствовать свои навыки развития, расширять собственные возможности.
-# Изучаю C++, Java, algorithms, and computer science
+## Изучаю C++, Java, algorithms, and computer science
 
 <!--
 **kiselevm2023/kiselevm2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
